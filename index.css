@@ -1,0 +1,49 @@
+body  {
+    background-color: #eef8fc;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    margin-top:1vw;
+    margin-bottom:2vw;
+}
+div {
+    width: 70vw;
+    line-height: 10px;
+}
+hr {
+    border-color: black;
+    border-top: 8vw;
+}
+h1 {
+    text-align: center;
+    font-size: 2.3vw;
+}
+h2 {
+    text-align: center;
+    margin-top: 3vw;
+    font-size: 1.5vw;
+}
+h5 {
+    text-align: center;
+    font-size: 0.8vw;
+}
+br {
+    display: block;
+    content: ""; /* Solution taken from: https://stackoverflow.com/questions/1409649/how-to-change-the-height-of-a-br */
+    margin-top: 0.3vw; 
+}
+#big {
+    margin-top: 2vw
+}
+ul {
+    margin-top: -.7vw;
+    font-size: 0.75vw;
+    line-height: 1.2vw;
+    padding-left: 4vw;
+}
+p {
+    font-size: 0.8vw;
+}
+#Summary {
+    font-size: 0.9vw;
+    line-height: 1vw;
+}
