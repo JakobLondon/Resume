@@ -1,12 +1,11 @@
 body  {
-    background-color: #eef8fc;
-    margin-right: 15vw;
-    margin-left: 15vw;
+    background-color: #e3f5fc;
+    margin-right: 32vw;
+    margin-left: 32vw;
     margin-top:1vw;
     margin-bottom:2vw;
 }
 div {
-    width: 70vw;
     line-height: 10px;
 }
 hr {
@@ -20,7 +19,7 @@ h1 {
 h2 {
     text-align: center;
     margin-top: 3vw;
-    font-size: 1.5vw;
+    font-size: 1.4vw;
 }
 h5 {
     text-align: center;
@@ -45,5 +44,17 @@ p {
 }
 #Summary {
     font-size: 0.9vw;
-    line-height: 1vw;
+    line-height: 1.5vw;
+}
+#CodingList {
+    display: inline-block;
+    text-align:left;
+    margin-left: 10vw;
+}
+div.CenterDiv {
+    text-align: center;
+}
+ul.CenterList {
+    display: inline-block;
+    text-align: left;
 }
