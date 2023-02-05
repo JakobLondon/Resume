@@ -1,5 +1,5 @@
 body  {
-    background-color: #e3f5fc;
+    background-color: #f7fcff;
     margin-right: 32vw;
     margin-left: 32vw;
     margin-top:1vw;
@@ -30,7 +30,7 @@ br {
     content: ""; /* Solution taken from: https://stackoverflow.com/questions/1409649/how-to-change-the-height-of-a-br */
     margin-top: 0.3vw; 
 }
-#big {
+br.big {
     margin-top: 2vw
 }
 ul {
